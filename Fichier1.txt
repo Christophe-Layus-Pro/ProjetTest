@@ -1,1 +1,5 @@
 123
+
+Declare Fonction2 {
+	hhhh
+}
