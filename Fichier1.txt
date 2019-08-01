@@ -1,3 +1,6 @@
 123 
 
-Rajout Fonction1
+Declare Fonction1
+{
+	xxxx
+}
