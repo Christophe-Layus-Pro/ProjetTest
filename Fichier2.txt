@@ -3,3 +3,5 @@
 call Fonction1()
 
 call Fonction2()
+
+call Fonction3()
