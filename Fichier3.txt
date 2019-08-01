@@ -1,1 +1,6 @@
 345
+
+Declare Fonction3()
+{
+	hhhhnj
+}
