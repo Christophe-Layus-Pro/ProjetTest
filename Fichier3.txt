@@ -1,6 +1,7 @@
 345
 
 Declare Fonction3()
+# En version 2
 {
 	hhhhnj
 }
