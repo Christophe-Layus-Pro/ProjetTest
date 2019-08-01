@@ -1,4 +1,5 @@
 234
 
+call Fonction1()
 
 call Fonction2()
