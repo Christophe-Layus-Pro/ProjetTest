@@ -7,5 +7,6 @@ Declare Fonction1
 
 Declare Fonction2 {
 	hhhh
+	patch
 }
 
